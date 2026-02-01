@@ -1,1 +1,1 @@
-# cvd-prediction-xai
+# cardiovascular-prediction
